@@ -3,7 +3,7 @@ import { Target, Eye, Users, TrendingUp, Shield, Building2 } from "lucide-react"
 import gsap from "gsap";
 import { ScrollTrigger, MotionPathPlugin } from "gsap/all";
 import Footer from "../components/Footer";
-import realestateimg from "../assets/uae.jpg";
+import realestateimg from "../assets/UAE.jpg";
 import realestate15 from "../assets/realestate15.jpeg";
 import realestate16 from "../assets/realestate16.jpeg";
 import realestate14 from "../assets/realestate14.jpeg";
